@@ -7,7 +7,8 @@ during the minor 'Scripting for Designers' in 2015.
 
 This Git repository contains source code. You might not know what to do with that.
 
-Are you looking to download and play the game? [Head over to the releases!](https://github.com/ellipticcurv3/RedBlueYellow/releases/latest)
+ - Are you looking to play the game online? [Head over to this site](https://ellipticcurv3.keybase.pub/RedBlueYellow-WebGL/)
+ - Are you looking to download and play the game? [Head over to the releases!](https://github.com/ellipticcurv3/RedBlueYellow/releases/latest)
 
 # More information...
 
